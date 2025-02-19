@@ -1,4 +1,4 @@
-package com.lectures.l3;
+package com.lectures.l4;
 
 import java.util.Scanner;
 
