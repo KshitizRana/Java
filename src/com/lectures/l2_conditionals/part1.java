@@ -1,4 +1,4 @@
-package com.lectures.l2;
+package com.lectures.l2_conditionals;
 
 import java.util.Scanner;
 
