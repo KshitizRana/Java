@@ -1,4 +1,4 @@
-package com.lectures.l4;
+package com.lectures.l4_arrays;
 
 import java.util.Scanner;
 
