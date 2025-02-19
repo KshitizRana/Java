@@ -4,6 +4,9 @@ public class Main {
     public static void main(String[] args) {
         L2_1();
     }
+    static void L1_1() {
+        System.out.println("Hello World");
+    }
     static void L2_1(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Year: ");
